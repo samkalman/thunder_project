@@ -1,0 +1,15 @@
+﻿player,season,G,PtsProd,DRTG,WinsAR,StartYear,YearsInleague,all_nba,team ,Positions
+Luka Doncic,2019,72,1514.7,109,9.72,2019,1,0,None,1
+Karl Anthony-Towns,2016,82,1385.75,106,8.64,2016,1,0,None,5
+Karl Anthony-Towns,2017,82,1904.25,110,14.31,2016,2,0,None,5
+Karl Anthony-Towns,2018,82,1623.75,107,14.85,2016,3,1,Third Team,5
+Karl Anthony-Towns,2019,77,1783.15,108,15.39,2016,4,0,None,5
+Kyrie Irving,2016,53,979.1,106,4.05,2012,5,0,None,1
+Kyrie Irving,2017,72,1684.7,112,7.83,2012,6,0,None,1
+Kyrie Irving,2018,60,1334.2,106,10.8,2012,7,0,None,1
+Kyrie Irving,2019,67,1541.3,108,12.69,2012,8,1,Second Team,1
+Stephen Curry,2016,79,2188.75,103,26.46,2010,7,1,First Team,1
+Stephen Curry,2017,79,1897.75,105,16.74,2010,8,1,Second Team,1
+Stephen Curry,2018,51,1265.2,108,11.88,2010,9,1,Third Team,1
+Stephen Curry,2019,69,1688.5,110,13.23,2010,10,1,First Team,1
+, ,,,,,,,,,
